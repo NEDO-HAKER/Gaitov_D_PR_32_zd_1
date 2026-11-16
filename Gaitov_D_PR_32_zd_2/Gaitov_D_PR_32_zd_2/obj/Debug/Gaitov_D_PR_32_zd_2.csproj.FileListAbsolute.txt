@@ -1,0 +1,7 @@
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\Gaitov_D_PR_32_zd_2\Gaitov_D_PR_32_zd_2\bin\Debug\Gaitov_D_PR_32_zd_2.exe.config
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\Gaitov_D_PR_32_zd_2\Gaitov_D_PR_32_zd_2\bin\Debug\Gaitov_D_PR_32_zd_2.exe
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\Gaitov_D_PR_32_zd_2\Gaitov_D_PR_32_zd_2\bin\Debug\Gaitov_D_PR_32_zd_2.pdb
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\Gaitov_D_PR_32_zd_2\Gaitov_D_PR_32_zd_2\obj\Debug\Gaitov_D_PR_32_zd_2.csproj.AssemblyReference.cache
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\Gaitov_D_PR_32_zd_2\Gaitov_D_PR_32_zd_2\obj\Debug\Gaitov_D_PR_32_zd_2.csproj.CoreCompileInputs.cache
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\Gaitov_D_PR_32_zd_2\Gaitov_D_PR_32_zd_2\obj\Debug\Gaitov_D_PR_32_zd_2.exe
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\Gaitov_D_PR_32_zd_2\Gaitov_D_PR_32_zd_2\obj\Debug\Gaitov_D_PR_32_zd_2.pdb

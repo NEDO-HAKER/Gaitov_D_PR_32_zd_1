@@ -1,0 +1,15 @@
+C:\Users\st328-11\source\repos\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\bin\Debug\GaitovDenis_PR32_zd_1.exe.config
+C:\Users\st328-11\source\repos\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\bin\Debug\GaitovDenis_PR32_zd_1.exe
+C:\Users\st328-11\source\repos\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\bin\Debug\GaitovDenis_PR32_zd_1.pdb
+C:\Users\st328-11\source\repos\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\obj\Debug\GaitovDenis_PR32_zd_1.csproj.AssemblyReference.cache
+C:\Users\st328-11\source\repos\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\obj\Debug\GaitovDenis_PR32_zd_1.csproj.CoreCompileInputs.cache
+C:\Users\st328-11\source\repos\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\obj\Debug\GaitovDenis_PR32_zd_1.exe
+C:\Users\st328-11\source\repos\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\obj\Debug\GaitovDenis_PR32_zd_1.pdb
+C:\Users\st328-11\source\repos\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\obj\Debug\GaitovDenis_PR32_zd_1.exe.config
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\bin\Debug\GaitovDenis_PR32_zd_1.exe.config
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\bin\Debug\GaitovDenis_PR32_zd_1.exe
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\bin\Debug\GaitovDenis_PR32_zd_1.pdb
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\obj\Debug\GaitovDenis_PR32_zd_1.csproj.AssemblyReference.cache
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\obj\Debug\GaitovDenis_PR32_zd_1.csproj.CoreCompileInputs.cache
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\obj\Debug\GaitovDenis_PR32_zd_1.exe
+C:\Users\st328-11\Documents\Внедрение и поддержка\Гаитов_ПР32\GaitovDenis_PR32_zd_1\GaitovDenis_PR32_zd_1\obj\Debug\GaitovDenis_PR32_zd_1.pdb
